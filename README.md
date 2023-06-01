@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @JonathanMwangiMaina
-- 👀 I’m interested in full stack and front-end web devt. Also NFTs.
-- 🌱 I’m currently learning.
-- 💞️ I’m looking to collaborate on web startup and gaming software.
+- 👋 Hi, I’m Jonathan Mwangi.
+- 👀 You can find me on twitter as @BergaziKE.
+- 🌱 I’m currently learning: BSc. Computer Science - KyU.
+- 💞️ I’m looking to collaborate on projects such as web apps, cybersecurity (systemadmin and/or networkadmin) and gaming softwares.
 - 📫 How to reach me, +254104515152 or jonathanmainast29@yahoo.com
 
 <!---
